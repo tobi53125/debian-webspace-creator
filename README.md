@@ -1,5 +1,5 @@
 # debian-webspace-creator
-GERMAN (English coming soon):
+GERMAN:
 
 Für die Installation müssen folgende Schritte befolgt werden:
 
@@ -11,6 +11,8 @@ Für die Installation müssen folgende Schritte befolgt werden:
 6. "www-data ALL=(ALL) NOPASSWD: /root/mkvhost.sh" in /etc/sudoers am Ende einfügen
 7. "service sudo restart"
 8. Fertig.
+
+
 
 ENGLISH:
 
